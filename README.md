@@ -14,6 +14,7 @@ _Get started using GitHub in less than an hour._
 </header>
 
 Testing if this updated worked.
+Checking if custom works
 
 <!--
   <<< Author notes: Step 1 >>>
