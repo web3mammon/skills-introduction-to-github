@@ -13,6 +13,8 @@ _Get started using GitHub in less than an hour._
 
 </header>
 
+Testing if this updated worked.
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
